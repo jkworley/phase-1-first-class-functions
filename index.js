@@ -4,7 +4,6 @@ function receivesAFunction(callbackFunction) {
 
 function returnsANamedFunction() {
     return namedFunction = function() {
-        
     }
 }
 
